@@ -1,7 +1,7 @@
 # Avoid it
-Simple game I made in 6 hours, simply to challange myself
+Collect you items! Avoid others! Simple rules!
 
-
+Game was created for fun and to challange myself (I gave myself 6hours) 
 ## Table of Contents
 
 - [Game Rules](#game-rules)
