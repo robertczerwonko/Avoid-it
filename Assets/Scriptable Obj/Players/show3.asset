@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1865cb7b1b437f84697fab358723b2e2, type: 3}
+  m_Name: show3
+  m_EditorClassIdentifier: 
+  name: Player3
+  faceImage: {fileID: 21300000, guid: a5a100a33cf88b440bed553d1eb62adf, type: 3}
+  PersonalObj: 1
+  PersonalObjImage: {fileID: 21300000, guid: 7fc1029f3230a6c4a9be972195c351ea, type: 3}
