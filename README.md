@@ -18,7 +18,7 @@ You have to pick one character, in demo it's just simple human face (player is s
   - You can tap anywhere on screen to move
 ### Demo gif
 # Start Menu
-![](Avoid IT Start.gif)
+![](Avoid IT Game.gif)
 
 # Gameplay
 ![](Avoid IT Game.gif.gif)
