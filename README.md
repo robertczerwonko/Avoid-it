@@ -23,6 +23,7 @@ You have to pick one character, in demo it's just simple human face (player is s
 ![](gameplay.gif)
 
 ## APK ##
-AvoidIT.apk 
-Androind 5.0 + 
-23mb free space
+Game made with Unity <br />
+AvoidIT.apk <br />
+Androind 5.0 + <br />
+23mb free space <br />
