@@ -18,10 +18,10 @@ You have to pick one character, in demo it's just simple human face (player is s
   - You can tap anywhere on screen to move
 ### Demo gif
 # Start Menu
-![](Avoid IT Game.gif)
+![](start.gif)
 
 # Gameplay
-![](Avoid IT Game.gif.gif)
+![](gameplay.gif)
 ## APK ##
 AvoidIT.apk 
 Androind 5.0 + 
